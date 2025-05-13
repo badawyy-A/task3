@@ -16,8 +16,8 @@
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone https://github.com/badawyy-A/task3.git
+    cd task3
     ```
 
 2.  **Create a virtual environment (recommended):**
